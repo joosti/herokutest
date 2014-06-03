@@ -1,0 +1,27 @@
+{
+  "name": "herokutest",
+  "version": "0.0.0",
+  "description": "Heroku test",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joosti/herokutest.git"
+  },
+  "keywords": [
+    "test",
+    "heroku"
+  ],
+  "author": "Joosti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joosti/herokutest/issues"
+  },
+  "homepage": "https://github.com/joosti/herokutest",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.4.1"
+  }
+}
